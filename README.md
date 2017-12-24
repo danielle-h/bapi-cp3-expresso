@@ -1,1 +1,0 @@
-# bapi-cp3-expresso
